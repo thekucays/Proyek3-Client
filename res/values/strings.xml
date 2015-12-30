@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KLone App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cari_bengkel">CariBengkel</string>
+    <string name="title_activity_bengkel_pop_up">BengkelPopUp</string>
+    <string name="title_activity_bengkel_detail">BengkelDetail</string>
+
+</resources>
